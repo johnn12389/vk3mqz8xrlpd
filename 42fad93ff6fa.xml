@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>נוירואימונולוגיה בקיצור</title>
+    <link>https://johnn12389.github.io/vk3mqz8xrlpd/</link>
+    <language>he</language>
+    <description>פודקאסט לימודי בעברית על טרשת נפוצה ונוירואימונולוגיה לרופאים, מתמחים וסטודנטים התוכן מופק אוטומטית באמצעות בינה מלאכותית ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+    <itunes:author>נוירואימונולוגיה בקיצור</itunes:author>
+    <itunes:summary>פודקאסט לימודי בעברית על טרשת נפוצה ונוירואימונולוגיה לרופאים, מתמחים וסטודנטים התוכן מופק אוטומטית באמצעות בינה מלאכותית ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:image href="https://johnn12389.github.io/vk3mqz8xrlpd/cover.jpg"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <itunes:category text="Science"/>
+    <itunes:owner>
+      <itunes:name>נוירואימונולוגיה בקיצור</itunes:name>
+    </itunes:owner>
+    <atom:link href="https://johnn12389.github.io/vk3mqz8xrlpd/42fad93ff6fa.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>אנצפליטיס אוטואימוני פרק 1 – נוגדנים לאנטיגנים על פני התא ו-anti-NMDAR</title>
+      <description>המושג של נוגדנים לקולטנים על פני הנוירון, ההבדל מתסמונות פרהנאופלסטיות קלאסיות, ואנצפליטיס anti-NMDAR מקצה לקצה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>המושג של נוגדנים לקולטנים על פני הנוירון, ההבדל מתסמונות פרהנאופלסטיות קלאסיות, ואנצפליטיס anti-NMDAR מקצה לקצה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms11_747ce936.mp3" length="28342102" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms11_747ce936.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>אנצפליטיס אוטואימוני פרק 2 – LGI1, CASPR2, GABA, AMPA ומה שמעבר</title>
+      <description>אנצפליטיס לימבי לפי הנוגדן – LGI1 ופרכוסים פציו-ברכיאליים, Morvan, GABA-A ו-GABA-B, AMPA, DPPX, mGluR ו-IgLON5 | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>אנצפליטיס לימבי לפי הנוגדן – LGI1 ופרכוסים פציו-ברכיאליים, Morvan, GABA-A ו-GABA-B, AMPA, DPPX, mGluR ו-IgLON5 | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms12_1a5af5ed.mp3" length="30499583" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms12_1a5af5ed.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>תסמונות פרהנאופלסטיות פרק 1 – המנגנון, הנוגדנים והגישה האבחנתית</title>
+      <description>אנטיגנים תוך-תאיים מול אנטיגנים על פני התא, טבלת הנוגדנים והגידולים, הגישה האבחנתית, וניוון צרבלרי פרהנאופלסטי | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>אנטיגנים תוך-תאיים מול אנטיגנים על פני התא, טבלת הנוגדנים והגידולים, הגישה האבחנתית, וניוון צרבלרי פרהנאופלסטי | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms13_b561494a.mp3" length="30196167" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms13_b561494a.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>תסמונות פרהנאופלסטיות פרק 2 – התסמונות הקליניות והטיפול</title>
+      <description>אנצפלומיאליטיס, אנצפליטיס לימבי וגזעי, opsoclonus-myoclonus, stiff-person, נוירונופתיה חושית, תסמונות ראייה וטיפול | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>אנצפלומיאליטיס, אנצפליטיס לימבי וגזעי, opsoclonus-myoclonus, stiff-person, נוירונופתיה חושית, תסמונות ראייה וטיפול | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms14_bebb0ad3.mp3" length="30293537" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms14_bebb0ad3.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NMOSD – ניורומיאליטיס אופטיקה</title>
+      <description>הנוגדן ל-AQP4, מיאליטיס אורכי נרחב, תסמונת ה-area postrema, קריטריוני Wingerchuk, והטיפולים החדשים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>הנוגדן ל-AQP4, מיאליטיס אורכי נרחב, תסמונת ה-area postrema, קריטריוני Wingerchuk, והטיפולים החדשים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms15_c396a623.mp3" length="30155559" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms15_c396a623.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>מחלת MOG ו-ADEM</title>
+      <description>אנצפלומיאליטיס מפושט חריף, לויקואנצפליטיס דימומי חריף, ומחלת הנוגדן ל-MOG על כל הפנוטיפים שלה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>אנצפלומיאליטיס מפושט חריף, לויקואנצפליטיס דימומי חריף, ומחלת הנוגדן ל-MOG על כל הפנוטיפים שלה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms16_6fbe3eb4.mp3" length="30289275" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms16_6fbe3eb4.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>מיאליטיס רוחבי, ON מבודד ו-CRION</title>
+      <description>מיאליטיס רוחבי חלקי מול מלא ומה זה מנבא, נוירופתיה אופטית דלקתית חוזרת, והבירור של אירוע דמיאלינטיבי ממוקד | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>מיאליטיס רוחבי חלקי מול מלא ומה זה מנבא, נוירופתיה אופטית דלקתית חוזרת, והבירור של אירוע דמיאלינטיבי ממוקד | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms17_7b1f7451.mp3" length="30030589" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms17_7b1f7451.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>וסקוליטיס של מערכת העצבים המרכזית והחיקויים של טרשת נפוצה</title>
+      <description>וסקוליטיס ראשוני של ה-CNS – אבחנה, ביופסיה, אנגיוגרפיה וטיפול; ומה עוד נראה כמו טרשת נפוצה ואיך לא לפספס | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>וסקוליטיס ראשוני של ה-CNS – אבחנה, ביופסיה, אנגיוגרפיה וטיפול; ומה עוד נראה כמו טרשת נפוצה ואיך לא לפספס | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms18_d177ed63.mp3" length="30381730" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms18_d177ed63.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>נוירואימונולוגיה פרק 10 – מעבר ל-MS, ספקטרום הנוגדנים</title>
+      <description>ADEM, NMOSD ו-AQP4, מחלת MOG, מיאליטיס רוחבי ו-CRION; GBS/CIDP, MG ותסמונות פרהנאופלסטיות | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>ADEM, NMOSD ו-AQP4, מחלת MOG, מיאליטיס רוחבי ו-CRION; GBS/CIDP, MG ותסמונות פרהנאופלסטיות | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms10_b433dbe6.mp3" length="31497579" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms10_b433dbe6.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:31:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 9 – ניהול סימפטומים ווריאנטים</title>
+      <description>ספסטיות, עייפות, קוגניציה, מצב רוח, שלפוחית, רעד והליכה; tumefactive, Marburg ו-Baló | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>ספסטיות, עייפות, קוגניציה, מצב רוח, שלפוחית, רעד והליכה; tumefactive, Marburg ו-Baló | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms9_9120b0bb.mp3" length="30155080" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms9_9120b0bb.mp3</guid>
+      <pubDate>Fri, 03 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 8 – טיפול מַתְאִים-מחלה, חלק ב</title>
+      <description>natalizumab ו-PML, alemtuzumab, ocrelizumab, מחלה פרוגרסיבית, NEDA וניטור | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>natalizumab ו-PML, alemtuzumab, ocrelizumab, מחלה פרוגרסיבית, NEDA וניטור | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms8_1642afa2.mp3" length="30555484" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms8_1642afa2.mp3</guid>
+      <pubDate>Thu, 02 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 6 – מהלך קליני ופרוגנוזה</title>
+      <description>RRMS/SPMS/PPMS, EDSS ו-MSFC, המודל הטופוגרפי, RIS ו-CIS, הריון ופרוגנוזה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>RRMS/SPMS/PPMS, EDSS ו-MSFC, המודל הטופוגרפי, RIS ו-CIS, הריון ופרוגנוזה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms6_b19f970e.mp3" length="30772814" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms6_b19f970e.mp3</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:31:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 7 – טיפול מַתְאִים-מחלה, חלק א</title>
+      <description>טיפול בהתקף חריף, אינטרפרונים, glatiramer acetate ותרופות פומיות | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>טיפול בהתקף חריף, אינטרפרונים, glatiramer acetate ותרופות פומיות | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms7_addec18e.mp3" length="29364300" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms7_addec18e.mp3</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 5 – אבחנה</title>
+      <description>קריטריוני McDonald 2017, DIS/DIT, MRI, CSF ו-OCB, OCT ו-EP, אבחנה מבדלת ואבחון יתר | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>קריטריוני McDonald 2017, DIS/DIT, MRI, CSF ו-OCB, OCT ו-EP, אבחנה מבדלת ואבחון יתר | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms5_93c6f6c9.mp3" length="30124949" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms5_93c6f6c9.mp3</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 2 – הפנים הקליניות של MS</title>
+      <description>ON, INO, גזע, צרבלום, חישה ומוטוריקה, סוגרים ותפקוד מיני, Lhermitte ו-Uhthoff | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>ON, INO, גזע, צרבלום, חישה ומוטוריקה, סוגרים ותפקוד מיני, Lhermitte ו-Uhthoff | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms2_35546aaa.mp3" length="30015469" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms2_35546aaa.mp3</guid>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:30:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 4 – אטיולוגיה ואפידמיולוגיה</title>
+      <description>אוטואימוניות, HLA ו-GWAS, EBV, ויטמין D, עישון, מיקרוביום, גאוגרפיה ומגדר | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>אוטואימוניות, HLA ו-GWAS, EBV, ויטמין D, עישון, מיקרוביום, גאוגרפיה ומגדר | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms4_3ad24813.mp3" length="29708697" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms4_3ad24813.mp3</guid>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>טרשת נפוצה פרק 3 – הפתופיזיולוגיה והפלאק</title>
+      <description>הולכה ודמיאלינציה, ה-BBB, יצירת הנגע, ארבעת דפוסי Lucchinetti, חומר אפור ורה-מיאלינציה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>הולכה ודמיאלינציה, ה-BBB, יצירת הנגע, ארבעת דפוסי Lucchinetti, חומר אפור ורה-מיאלינציה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms3_c48f3b37.mp3" length="28948843" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms3_c48f3b37.mp3</guid>
+      <pubDate>Sat, 27 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:29:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>נוירואימונולוגיה פרק 1 – יסודות מערכת החיסון והמוח</title>
+      <description>חיסון מולד מול נרכש, תאי T ו-B, MHC, ציטוקינים, סבילות עצמית והאתר החיסוני המיוחס של ה-CNS | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>חיסון מולד מול נרכש, תאי T ו-B, MHC, ציטוקינים, סבילות עצמית והאתר החיסוני המיוחס של ה-CNS | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/vk3mqz8xrlpd/audio/ms1_c5223836.mp3" length="32344780" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-ms1_c5223836.mp3</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
